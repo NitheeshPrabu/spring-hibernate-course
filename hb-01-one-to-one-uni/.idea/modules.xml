@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hibernate-one.iml" filepath="$PROJECT_DIR$/hibernate-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb-01-one-to-one-uni.iml" filepath="$PROJECT_DIR$/hb-01-one-to-one-uni.iml" />
     </modules>
   </component>
 </project>

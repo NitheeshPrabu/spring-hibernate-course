@@ -7,482 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7825d62-4bdb-4f2b-98bf-598975aecfec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/hb-01-one-to-one-uni.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/FastInfoset-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/antlr-2.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/byte-buddy-1.9.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/classmate-1.3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/dom4j-2.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/hibernate-core-5.4.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/jandex-2.0.5.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/javassist-3.24.0-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/javax.persistence-api-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/jaxb-api-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/stax-ex-1.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/lib/txw2-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/sql-scripts/create-db.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/src/com/example/hibernatedemo/CreateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/src/com/example/hibernatedemo/DeleteDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/src/com/example/hibernatedemo/entity/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/src/com/example/hibernatedemo/entity/InstructorDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/src/com/example/jdbc/TestJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/src/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/hb-02-one-to-one-bi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/FastInfoset-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/antlr-2.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/byte-buddy-1.9.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/classmate-1.3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/dom4j-2.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/hibernate-core-5.4.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/jandex-2.0.5.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/javassist-3.24.0-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/javax.persistence-api-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/jaxb-api-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/stax-ex-1.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/lib/txw2-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/sql-scripts/create-db.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/src/com/example/hibernatedemo/CreateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/src/com/example/hibernatedemo/DeleteInstructorDetailDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/src/com/example/hibernatedemo/GetInstructorDetailDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/src/com/example/hibernatedemo/entity/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/src/com/example/hibernatedemo/entity/InstructorDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/src/com/example/jdbc/TestJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/src/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/hb-03-one-to-many.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/FastInfoset-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/antlr-2.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/byte-buddy-1.9.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/classmate-1.3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/dom4j-2.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/hibernate-core-5.4.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/jandex-2.0.5.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/javassist-3.24.0-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/javax.persistence-api-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/jaxb-api-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/stax-ex-1.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/lib/txw2-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/sql-scripts/create-db.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/src/com/example/hibernatedemo/CreateCoursesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/src/com/example/hibernatedemo/CreateInstructorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/src/com/example/hibernatedemo/DeleteCourseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/src/com/example/hibernatedemo/GetInstructorCoursesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/src/com/example/hibernatedemo/entity/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/src/com/example/hibernatedemo/entity/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/src/com/example/hibernatedemo/entity/InstructorDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/src/com/example/jdbc/TestJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/src/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/hb-04-one-to-many-uni.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/FastInfoset-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/antlr-2.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/byte-buddy-1.9.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/classmate-1.3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/dom4j-2.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/hibernate-core-5.4.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/jandex-2.0.5.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/javassist-3.24.0-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/javax.persistence-api-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/jaxb-api-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/stax-ex-1.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/lib/txw2-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/sql-scripts/create-db.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/CreateCourseAndReviewDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/CreateCoursesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/CreateInstructorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/DeleteCourseAndReviewDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/DeleteCourseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/GetCourseAndReviewDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/GetInstructorCoursesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/entity/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/entity/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/entity/InstructorDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/entity/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/src/com/example/jdbc/TestJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/src/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/hb-05-many-to-many.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/FastInfoset-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/antlr-2.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/byte-buddy-1.9.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/classmate-1.3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/dom4j-2.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/hibernate-core-5.4.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/jandex-2.0.5.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/javassist-3.24.0-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/javax.persistence-api-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/jaxb-api-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/stax-ex-1.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/lib/txw2-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/com/example/hibernatedemo/AddCoursesForMaryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/com/example/hibernatedemo/CreateCourseAndReviewDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/com/example/hibernatedemo/CreateCourseAndStudentsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/com/example/hibernatedemo/DeleteCourseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/com/example/hibernatedemo/DeleteStudentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/com/example/hibernatedemo/GetCoursesForMaryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/com/example/hibernatedemo/entity/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/com/example/hibernatedemo/entity/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/com/example/hibernatedemo/entity/InstructorDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/com/example/hibernatedemo/entity/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/com/example/hibernatedemo/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/com/example/jdbc/TestJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/create-db.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/src/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/hb-eager-vs-lazy-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/FastInfoset-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/antlr-2.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/byte-buddy-1.9.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/classmate-1.3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/dom4j-2.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/hibernate-core-5.4.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/jandex-2.0.5.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/javassist-3.24.0-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/javax.persistence-api-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/jaxb-api-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/stax-ex-1.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/lib/txw2-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/CreateCoursesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/CreateInstructorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/DeleteCourseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/EagerLazyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/FetchJoinDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/GetInstructorCoursesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/entity/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/entity/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/entity/InstructorDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/src/com/example/jdbc/TestJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/src/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/hb-01-one-to-one-uni.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/antlr-2.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/byte-buddy-1.9.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/classmate-1.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/dom4j-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/hibernate-core-5.4.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/jandex-2.0.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/javassist-3.24.0-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/stax-ex-1.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/lib/txw2-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/sql-scripts/create-db.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/src/com/example/hibernatedemo/CreateDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/src/com/example/hibernatedemo/DeleteDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/src/com/example/hibernatedemo/entity/Instructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/src/com/example/hibernatedemo/entity/InstructorDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/src/com/example/jdbc/TestJDBC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-01-one-to-one-uni/src/hibernate.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/hb-02-one-to-one-bi.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/antlr-2.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/byte-buddy-1.9.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/classmate-1.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/dom4j-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/hibernate-core-5.4.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/jandex-2.0.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/javassist-3.24.0-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/stax-ex-1.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/lib/txw2-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/sql-scripts/create-db.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/src/com/example/hibernatedemo/CreateDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/src/com/example/hibernatedemo/DeleteInstructorDetailDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/src/com/example/hibernatedemo/GetInstructorDetailDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/src/com/example/hibernatedemo/entity/Instructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/src/com/example/hibernatedemo/entity/InstructorDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/src/com/example/jdbc/TestJDBC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-02-one-to-one-bi/src/hibernate.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/hb-03-one-to-many.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/antlr-2.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/byte-buddy-1.9.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/classmate-1.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/dom4j-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/hibernate-core-5.4.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/jandex-2.0.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/javassist-3.24.0-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/stax-ex-1.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/lib/txw2-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/sql-scripts/create-db.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/src/com/example/hibernatedemo/CreateCoursesDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/src/com/example/hibernatedemo/CreateInstructorDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/src/com/example/hibernatedemo/DeleteCourseDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/src/com/example/hibernatedemo/GetInstructorCoursesDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/src/com/example/hibernatedemo/entity/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/src/com/example/hibernatedemo/entity/Instructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/src/com/example/hibernatedemo/entity/InstructorDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/src/com/example/jdbc/TestJDBC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-03-one-to-many/src/hibernate.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/hb-04-one-to-many-uni.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/antlr-2.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/byte-buddy-1.9.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/classmate-1.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/dom4j-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/hibernate-core-5.4.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/jandex-2.0.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/javassist-3.24.0-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/stax-ex-1.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/lib/txw2-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/sql-scripts/create-db.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/CreateCourseAndReviewDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/CreateCoursesDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/CreateInstructorDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/DeleteCourseAndReviewDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/DeleteCourseDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/GetCourseAndReviewDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/GetInstructorCoursesDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/entity/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/entity/Instructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/entity/InstructorDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/src/com/example/hibernatedemo/entity/Review.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/src/com/example/jdbc/TestJDBC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-04-one-to-many-uni/src/hibernate.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/hb-05-many-to-many.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/antlr-2.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/byte-buddy-1.9.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/classmate-1.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/dom4j-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/hibernate-core-5.4.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/jandex-2.0.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/javassist-3.24.0-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/stax-ex-1.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/lib/txw2-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/com/example/hibernatedemo/AddCoursesForMaryDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/com/example/hibernatedemo/CreateCourseAndReviewDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/com/example/hibernatedemo/CreateCourseAndStudentsDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/com/example/hibernatedemo/DeleteCourseDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/com/example/hibernatedemo/DeleteStudentDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/com/example/hibernatedemo/GetCoursesForMaryDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/com/example/hibernatedemo/entity/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/com/example/hibernatedemo/entity/Instructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/com/example/hibernatedemo/entity/InstructorDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/com/example/hibernatedemo/entity/Review.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/com/example/hibernatedemo/entity/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/com/example/jdbc/TestJDBC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/create-db.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-05-many-to-many/src/hibernate.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/hb-eager-vs-lazy-demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/antlr-2.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/byte-buddy-1.9.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/classmate-1.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/dom4j-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/hibernate-core-5.4.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/jandex-2.0.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/javassist-3.24.0-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/stax-ex-1.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/lib/txw2-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/CreateCoursesDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/CreateInstructorDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/DeleteCourseDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/EagerLazyDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/FetchJoinDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/GetInstructorCoursesDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/entity/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/entity/Instructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/src/com/example/hibernatedemo/entity/InstructorDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/src/com/example/jdbc/TestJDBC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced Mapping Examples/hb-eager-vs-lazy-demo/src/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-01-one-to-one-uni/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-02-one-to-one-bi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-03-one-to-many/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-04-one-to-many-uni/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-05-many-to-many/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced-mapping-examples/hb-eager-vs-lazy-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -510,42 +41,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/springdemo/controller/CustomerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="83" column="59" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/example/springdemo/dao/CustomerDAOImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="92" column="72" selection-start-line="92" selection-start-column="72" selection-end-line="92" selection-end-column="72" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#0#31#0" expanded="true" />
-                <element signature="e#0#41#1" expanded="true" />
-                <element signature="e#0#93#0" expanded="true" />
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -597,7 +93,7 @@
     <option name="FILTER_DEBUG" value="false" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="24" />
     <option name="width" value="960" />
     <option name="height" value="1056" />
@@ -617,79 +113,6 @@
             </path>
             <path>
               <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-customer-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-customer-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-customer-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-customer-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-customer-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-customer-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-customer-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-customer-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-customer-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-customer-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-customer-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -701,10 +124,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -944,18 +368,18 @@
       <option name="presentableId" value="Default" />
       <updated>1560248873752</updated>
       <workItem from="1560248876455" duration="98000" />
-      <workItem from="1560249230310" duration="11560000" />
+      <workItem from="1560249230310" duration="11811000" />
+      <workItem from="1560265082444" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11658000" />
+    <option name="totallyTimeSpent" value="11912000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="960" height="1056" extended-state="4" />
-    <editor active="true" />
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49842933" weight="0.37308535" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49842933" visible="true" weight="0.22518677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -963,12 +387,9 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" sideWeight="0.5015707" side_tool="true" weight="0.41356674" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.32984293" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Messages" weight="0.32984293" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32044762" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -979,6 +400,9 @@
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32984293" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32984293" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24945295" />
@@ -1149,6 +573,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/springdemo/dao/CustomerDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#41#1" expanded="true" />
+            <element signature="e#0#93#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/springdemo/controller/CustomerController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1160,20 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/springdemo/dao/CustomerDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="92" column="72" selection-start-line="92" selection-start-column="72" selection-end-line="92" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#0#41#1" expanded="true" />
-            <element signature="e#0#93#0" expanded="true" />
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

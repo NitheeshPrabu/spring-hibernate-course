@@ -7,93 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6dc7f1-ef46-4610-b2f5-69c167fce20e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/.idea/artifacts/spring_mvc_demo_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/.idea/artifacts/spring_mvc_demo_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/.idea/libraries/lib.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/.idea/libraries/library.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/classmate-1.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/hibernate-validator-6.0.16.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/hibernate-validator-annotation-processor-6.0.16.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/hibernate-validator-cdi-6.0.16.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/javax.annotation.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/javax.ejb.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/javax.el-3.0.1-b09.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/javax.jms.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/javax.persistence.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/javax.resource.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/javax.servlet.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/javax.servlet.jsp.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/javax.servlet.jsp.jstl-1.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/javax.transaction.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-aop-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-aop-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-aop-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-aspects-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-aspects-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-aspects-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-beans-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-beans-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-beans-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-context-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-context-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-context-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-context-indexer-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-context-indexer-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-context-indexer-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-context-support-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-context-support-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-context-support-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-core-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-core-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-core-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-expression-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-expression-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-expression-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-instrument-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-instrument-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-instrument-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-jcl-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-jcl-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-jcl-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-jdbc-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-jdbc-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-jdbc-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-jms-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-jms-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-jms-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-messaging-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-messaging-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-messaging-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-orm-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-orm-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-orm-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-oxm-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-oxm-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-oxm-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-test-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-test-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-test-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-tx-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-tx-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-tx-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-web-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-web-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-web-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-webflux-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-webflux-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-webflux-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-webmvc-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-webmvc-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-webmvc-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-websocket-5.1.7.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-websocket-5.1.7.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-websocket-5.1.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/lib/validation-api-2.0.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/spring-mvc-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/spring-mvc-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/config/DemoAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/config/DemoAppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/config/DemoSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/config/DemoSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/classes/com/example/springsecuritydemo/config/DemoAppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/classes/com/example/springsecuritydemo/config/DemoAppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/classes/com/example/springsecuritydemo/config/DemoSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/classes/com/example/springsecuritydemo/config/DemoSecurityConfig.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../spring-security-demo-01-base-app/target/" />
@@ -104,59 +24,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/controller/DemoController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/config/DemoSecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="41" column="36" lean-forward="true" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/controller/LoginController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="n#!!doc;n#jsp:root#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="144">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -170,6 +61,11 @@
         <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>userDetailsManager</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -190,14 +86,20 @@
         <option value="$PROJECT_DIR$/../spring-security-demo-01-base-app/src/main/java/com/example/springsecuritydemo/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/plain-login.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/fancy-login.jsp" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/leaders.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/controller/DemoController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/systems.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/config/DemoSecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/access-denied.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/persistence-mysql.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/registration-confirmation.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/registration-form.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/user/CrmUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/controller/RegistrationController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/config/DemoAppConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/config/DemoSecurityConfig.java" />
       </list>
     </option>
   </component>
@@ -214,6 +116,17 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-security-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -234,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -291,6 +205,13 @@
               <item name="spring-security-demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -314,13 +235,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/user" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -333,7 +254,10 @@
       <recent name="com.example.springsecuritydemo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/user" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/controller" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/view" />
+      <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -438,11 +362,15 @@
       <updated>1560333219517</updated>
       <workItem from="1560333223604" duration="4745000" />
       <workItem from="1560346780126" duration="6547000" />
+      <workItem from="1560392851212" duration="927000" />
+      <workItem from="1560394237571" duration="1504000" />
+      <workItem from="1560396503283" duration="3502000" />
+      <workItem from="1560403242992" duration="93000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11292000" />
+    <option name="totallyTimeSpent" value="17318000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -457,6 +385,42 @@
     <frame x="0" y="24" width="960" height="1056" extended-state="4" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49924126" visible="true" weight="0.32713348" />
+      <window_info id="Structure" order="1" sideWeight="0.5007587" side_tool="true" weight="0.2497332" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.5007587" side_tool="true" weight="0.2497332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989059" weight="0.32960325" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960325" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32984293" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32984293" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010941" side_tool="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31943032" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24945295" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32932165" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32932165" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49924126" weight="0.512035" />
       <window_info id="Structure" order="1" sideWeight="0.5007587" side_tool="true" weight="0.2497332" />
       <window_info id="Designer" order="2" />
@@ -477,58 +441,27 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32984293" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010941" side_tool="true" weight="0.32984293" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32879582" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32879582" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24945295" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.32932165" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49924126" visible="true" weight="0.512035" />
-      <window_info id="Structure" order="1" sideWeight="0.5007587" side_tool="true" weight="0.2497332" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.5007587" side_tool="true" weight="0.2497332" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960325" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32984293" />
-      <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32984293" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32960325" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32879582" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32932165" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/config/SecurityWebApplicationInitializer.java">
@@ -549,23 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/config/DemoAppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="76" column="42" lean-forward="true" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/plain-login.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -573,30 +489,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/config/DemoSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="41" column="36" lean-forward="true" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/access-denied.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="92" selection-start-line="19" selection-start-column="92" selection-end-line="19" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -614,20 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/controller/DemoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/fancy-login.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -637,11 +519,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="234">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="n#!!doc;n#jsp:root#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/registration-confirmation.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/registration-form.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/user/CrmUser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/persistence-mysql.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/config/DemoAppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="964">
+          <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2418#2419#0" expanded="true" />
+            <element signature="e#2471#2472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/controller/RegistrationController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/controller/DemoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springsecuritydemo/config/DemoSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

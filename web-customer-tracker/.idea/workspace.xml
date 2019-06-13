@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7825d62-4bdb-4f2b-98bf-598975aecfec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-aop-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-aop-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-security-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -403,16 +403,17 @@
       <workItem from="1560249230310" duration="11811000" />
       <workItem from="1560265082444" duration="3000" />
       <workItem from="1560327078398" duration="1449000" />
+      <workItem from="1560413041578" duration="593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13361000" />
+    <option name="totallyTimeSpent" value="13954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="960" height="1056" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49842933" weight="0.22757111" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49842933" visible="true" weight="0.22757111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />

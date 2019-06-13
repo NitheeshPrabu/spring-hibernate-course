@@ -1,11 +1,15 @@
 package com.example.springsecuritydemo.config;
 
+import com.example.springsecuritydemo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.security.authentication.dao.DaoAuthenticationProvider;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 import javax.sql.DataSource;
 
@@ -14,8 +18,14 @@ import javax.sql.DataSource;
 public class DemoSecurityConfig extends WebSecurityConfigurerAdapter {
 
 	// add a reference to the JDBC security data source
+	//@Autowired
+	//private DataSource securityDataSource;
+
 	@Autowired
-	private DataSource securityDataSource;
+	private UserService userService;
+
+	@Autowired
+	private CustomAuthenticationSuccessHandler customAuthenticationSuccessHandler;
 
 	@Override
 	protected void configure(AuthenticationManagerBuilder auth) throws Exception {
@@ -31,7 +41,9 @@ public class DemoSecurityConfig extends WebSecurityConfigurerAdapter {
 		*/
 
 		// JDBC auth. Table names match Spring Security requirements
-		auth.jdbcAuthentication().dataSource(securityDataSource);
+		//auth.jdbcAuthentication().dataSource(securityDataSource);
+
+		auth.authenticationProvider(authenticationProvider());
 	}
 
 	@Override
@@ -51,5 +63,20 @@ public class DemoSecurityConfig extends WebSecurityConfigurerAdapter {
 				.logout().permitAll()
 				.and()
 				.exceptionHandling().accessDeniedPage("/access-denied");
+	}
+
+	//bcrypt bean definition
+	@Bean
+	public BCryptPasswordEncoder passwordEncoder() {
+		return new BCryptPasswordEncoder();
+	}
+
+	//authenticationProvider bean definition
+	@Bean
+	public DaoAuthenticationProvider authenticationProvider() {
+		DaoAuthenticationProvider auth = new DaoAuthenticationProvider();
+		auth.setUserDetailsService(userService);
+		auth.setPasswordEncoder(passwordEncoder());
+		return auth;
 	}
 }
